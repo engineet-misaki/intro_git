@@ -1,2 +1,5 @@
 test
 New
+Git add
+Git commit
+ギットおもろいなあ
