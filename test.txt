@@ -4,3 +4,4 @@ Git add
 Git commit
 ギットおもろいなあ
 一度にたくさん変更する方法の勉強中
+git diff
